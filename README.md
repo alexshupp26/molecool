@@ -27,6 +27,8 @@ This package requires the following:
     - NumPy
     - matplotlib
 
+This line doesn't add any value
+
 Features should be developed on branches.
 To create and swithc to a branch, use the command
 
