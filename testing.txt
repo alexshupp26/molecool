@@ -5,16 +5,8 @@ This is the start of testing.txt
 
 I added this file from a new clone!
 Now I added a new line!
+I added this line from the GitHub web interface!
 
 ***************************************
 This is the end of testing.txt
-=======
-This is	the start of testing.txt
-***************************************
-
-I added this file from a new clone!
-
-***************************************
-This is	the end	of testing.txt
->>>>>>> 202bd734f69638746ff489fbdb3d32cde63ba887
 ***************************************
